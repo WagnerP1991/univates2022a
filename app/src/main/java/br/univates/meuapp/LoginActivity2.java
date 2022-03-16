@@ -36,6 +36,7 @@ EditText txtUsuario, txtSenha;
 
                     Intent intent = new Intent(context, MainActivity.class);
                     startActivity(intent);
+                    finish();
                 }
 
 
