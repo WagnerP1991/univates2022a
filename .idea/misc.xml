@@ -5,9 +5,14 @@
       <map>
         <entry key="..\:/Users/wagner.possebon/AndroidStudioProjects/MeuApp/app/src/main/res/drawable/button_border.xml" value="0.3025" />
         <entry key="..\:/Users/wagner.possebon/AndroidStudioProjects/MeuApp/app/src/main/res/drawable/button_gradient.xml" value="0.3025" />
+        <entry key="..\:/Users/wagner.possebon/AndroidStudioProjects/MeuApp/app/src/main/res/layout/activity_apresentarlogin.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/wagner.possebon/AndroidStudioProjects/MeuApp/app/src/main/res/layout/activity_lista_pix.xml" value="0.3972911963882618" />
         <entry key="..\:/Users/wagner.possebon/AndroidStudioProjects/MeuApp/app/src/main/res/layout/activity_login.xml" value="0.2625" />
         <entry key="..\:/Users/wagner.possebon/AndroidStudioProjects/MeuApp/app/src/main/res/layout/activity_login2.xml" value="0.2484375" />
         <entry key="..\:/Users/wagner.possebon/AndroidStudioProjects/MeuApp/app/src/main/res/layout/activity_main.xml" value="0.5727525486561631" />
+        <entry key="..\:/Users/wagner.possebon/AndroidStudioProjects/MeuApp/app/src/main/res/layout/activity_menu.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/wagner.possebon/AndroidStudioProjects/MeuApp/app/src/main/res/layout/activity_tela1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/wagner.possebon/AndroidStudioProjects/MeuApp/app/src/main/res/layout/content_lista_pix.xml" value="0.36685773840541946" />
       </map>
     </option>
   </component>

@@ -25,6 +25,7 @@
         <item name="android:textSize">20sp</item>
         <item name="android:layout_margin">10dp</item>
         <item name="android:textColor">@color/blue</item>
+        <item name="fontFamily">@font/notosansjpblack</item>
         <item name="android:background">@drawable/button_border</item>
     </style>
 
@@ -33,4 +34,13 @@
         <item name="android:layout_margin">3dp</item>
         <item name="android:textColor">@color/blue</item>
     </style>
+
+    <style name="Theme.MeuApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MeuApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MeuApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
